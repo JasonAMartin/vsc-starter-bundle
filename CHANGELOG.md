@@ -2,6 +2,11 @@
 
 All notable changes to the "Starter Bundle" extension pack will be documented in this file.
 
+## 1.0.1 (2019-06-23)
+
+- Bug Fix
+  - Updated Docker publisher name to ms-azuretools.
+
 ## 1.0.0 (2018-09-15)
 
 - Bug Fix

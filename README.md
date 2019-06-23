@@ -188,7 +188,7 @@ Here's a list of extensions in this pack along with any relevant notes.
 
 ### DOCKER
 
-> [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) :: Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
+> [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) :: Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 
 ### ELIXIR
 

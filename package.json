@@ -2,7 +2,7 @@
     "name": "starter-bundle",
     "displayName": "Starter Bundle",
     "description": "Removes the friction of getting started with VSC. Get rockin right now with this one extension.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "JasonAMartin",
     "galleryBanner": {
         "color": "#333F48",
@@ -90,7 +90,7 @@
         "nwallace.language-vscode-javascript-angular2",
         "octref.vetur",
         "patrys.vscode-code-outline",
-        "PeterJausovec.vscode-docker",
+        "ms-azuretools.vscode-docker",
         "rebornix.Ruby",
         "robinbentley.sass-indented",
         "ryu1kn.partial-diff",
