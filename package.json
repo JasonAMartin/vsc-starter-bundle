@@ -83,7 +83,7 @@
         "mjmcloug.vscode-elixir",
         "ms-python.python",
         "ms-vscode.Go",
-        "ms-vscode.csharp",
+        "ms-dotnettools.csharp",
         "msjsdiag.debugger-for-chrome",
         "natewallace.angular2-inline",
         "naumovs.color-highlight",
